@@ -96,7 +96,7 @@ public class MainActivity extends Activity {
 				Toast.makeText(c, webView.getUrl() + description,
 						Toast.LENGTH_SHORT).show();
 
-				webView.loadUrl("http://www.parts-search.com/");
+				webView.loadUrl("http://www.icefrank.com/");
 
 			}
 
